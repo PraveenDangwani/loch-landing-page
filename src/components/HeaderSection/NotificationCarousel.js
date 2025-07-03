@@ -9,7 +9,7 @@ import { notificationCards } from '../../data/notificationCards';
 
 export default function NotificationCarousel() {
     return (
-        <div className=' h-auto min-h-[260px] sm:min-h-[280px] md:min-h-[300px] lg:min-h-[320px]'>
+        <div className=' h-auto min-h-[120px] sm:min-h-[140px] md:min-h-[160px] lg:min-h-[180px]'>
         <Swiper
             modules={[Autoplay]}
             spaceBetween={4}

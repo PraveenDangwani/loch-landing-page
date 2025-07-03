@@ -25,7 +25,8 @@ export const notificationCards = [
       options: ["$500.00", "$1,000.00", "$10,000.00"],
       value: "$1,000.00"
     },
-    selected: true
+    selected: true,
+    graph:true
   },
   {
     id: 3,
@@ -36,6 +37,7 @@ export const notificationCards = [
       options: ["> 7 days", "> 30 days", "> 90 days"],
       value: "> 30 days"
     },
-    selected: true
+    selected: true,
+    clock:true
   }
 ];

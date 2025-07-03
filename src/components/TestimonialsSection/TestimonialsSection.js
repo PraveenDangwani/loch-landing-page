@@ -24,7 +24,7 @@ const TestimonialsSection = () => {
         </div>
 
         
-        <div className="w-5/6 pr-4">
+        <div className="w-5/6">
           <Swiper
             modules={[FreeMode]}
             spaceBetween={24}
