@@ -12,7 +12,7 @@ const TestimonialsSection = () => {
   return (
     <div className="text-white">
       
-      <h5 className="mx-12 text-right border-b border-gray-300/50 pb-2 mb-4  font-inter font-medium text-[25px] leading-[120%] tracking-[0px] align-middle">
+      <h5 className="mx-12 text-center md:text-right border-b border-gray-300/50 pb-2 mb-4  font-inter font-medium text-[25px] leading-[120%] tracking-[0px] align-middle">
         Testimonials
       </h5>
 
